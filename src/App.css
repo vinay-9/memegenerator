@@ -1,0 +1,50 @@
+.btn{
+  background-color: aqua;
+  color: azure;
+  font-family: cursive;
+  font-weight: 500;
+  border-radius: 5px;
+  border-width: 0ch;
+  font-size: large;
+}
+.App{
+  margin-top: 200px;
+  text-align: center;
+
+}
+
+
+.bottom {
+  position: absolute;
+  bottom: 200px;
+  left: 85px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color:white;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: black;
+  font-size: x-large;
+  font-weight: 900; 
+  text-transform: uppercase;
+  
+}
+
+/* Top left text */
+.top {
+  position: absolute;
+  top: 290px;
+  left: 85px;
+  color:white;
+  text-shadow: 5px,black;
+  -webkit-text-size-adjust: auto;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: black;
+  font-size: xx-large;
+  font-weight: 800;  
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-transform: capitalize;
+  
+}
+
+ 
+
+
